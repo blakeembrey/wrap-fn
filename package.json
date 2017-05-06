@@ -16,13 +16,13 @@
     "url": "git://github.com/MatthewMueller/wrap-fn.git"
   },
   "dependencies": {
-    "co": "3.1.0"
+    "co": "4.6.0"
   },
   "devDependencies": {
-    "duo": "^0.8.2",
-    "duo-test": "^0.3.2",
+    "duo": "^0.15.7",
+    "duo-test": "^0.4.1",
     "generator-support": "0.0.1",
-    "gnode": "0.0.8",
+    "gnode": "0.1.2",
     "mocha": "*",
     "should": "*"
   },
