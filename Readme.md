@@ -1,6 +1,8 @@
 
 # wrap-fn
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/blakeembrey/wrap-fn.svg)](https://greenkeeper.io/)
+
   Low-level wrapper to support sync, async, promises, and generator functions.
 
 ## Installation
